@@ -1,0 +1,70 @@
+body {
+  color: #2f3549;
+  background-image: url("images/background.jpg");
+}
+
+.container {
+  background: rgb(178, 198, 192);
+  padding: 59px;
+  border-radius: 8px;
+  box-shadow: 10 10px 30px #2e3a38;
+  width: 865px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.title {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.image {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.sub-title {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #453e07;
+  font-size: 30px;
+}
+
+.description {
+  font-family:'Ubuntu', sans-serif;
+  font-size: 24px;
+}
+
+#btn-green {
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  background-color: #2f8b82;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 12px 24px;
+  border-radius: 37px;
+  display: inline-block;
+}
+
+#btn-green:hover {
+  background-color: black;
+}
+
+.list_itens {
+  list-style: none;
+  padding: 0;
+}
+
+.icone {
+  display: inline;
+  font-size: 60px;
+  margin: 0 10px;
+}
+
+.itens {
+  color: rgb(71, 92, 70);
+}
+
+.itens:hover {
+  color: rgb(16, 44, 30);
+}
+
+
